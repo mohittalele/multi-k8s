@@ -1,1 +1,0 @@
-Build the multi-container application that makes use of multiple different data bases and then glue it all together with docker and docker-compose. The deploy the application to AWS beanstalk as a multi-container application.
